@@ -52,11 +52,6 @@ button:hover {
 #result {
     padding: 20px;
 }
-@media (max-width: 700px){
-  .page{
-    padding: 40px;
-  }
-}
 
 footer {
   background-color: #000;
@@ -71,4 +66,15 @@ footer {
 
 .foot1 i:hover {
   color: #fff;
+}
+
+
+
+@media (max-width: 700px){
+  body {
+    font-size: 18px;
+  }
+  .page{
+    padding: 40px;
+  }                
 }

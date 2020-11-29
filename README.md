@@ -1,5 +1,4 @@
-# 2ray-odd-even-number.github.oi
-
+# Odd And Evne Numbers
 
 
 ### welcome to odd and even number hacking

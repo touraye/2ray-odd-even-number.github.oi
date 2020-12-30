@@ -7,4 +7,4 @@ You can pass in any number and the program will give your result as **odd** or a
 
 opne the url  
 
-https://touraye.github.io/2ray-odd-even-number.github.oi/
+[See Project](https://touraye.github.io/2ray-odd-even-number.github.oi/)
